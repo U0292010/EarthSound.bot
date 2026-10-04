@@ -1,0 +1,1 @@
+"""Earth Jukebox Telegram bot application."""
